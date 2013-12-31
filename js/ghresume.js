@@ -1,7 +1,7 @@
 (function() {
   var user;
 
-  user = new Gh3.User("hit9");
+  user = new Gh3.User("mingyun");
 
   $(document).ready(function() {
     return user.fetch(function(err, res) {
